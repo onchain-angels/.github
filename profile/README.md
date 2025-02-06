@@ -41,8 +41,6 @@ Each repository plays an essential role in ensuring that the Onchain Angels solu
     - PostgreSQL
 - **Deployment:** Heroku
 
----
-
 ### 3. **Frontend** 🌐
 - ** Repository:** [https://github.com/onchain-angels/onchain-angels-frontend](https://github.com/onchain-angels/onchain-angels-frontend) 🔗
 - **Description:**  
@@ -53,8 +51,6 @@ Each repository plays an essential role in ensuring that the Onchain Angels solu
     - TypeScript
 - **Deployment:** Vercel
 
----
-
 ### 4. **Nillion** 🔒
 - **Repository:** [https://github.com/onchain-angels/nillion](https://github.com/onchain-angels/nillion) 🔗
 - **Description:**  
@@ -64,8 +60,6 @@ Each repository plays an essential role in ensuring that the Onchain Angels solu
     - JavaScript
     - Node.js
     - nillion-sv-wrappers
-
----
 
 ### 5. **nillion-sv-wrappers-py** 🐍
 - **Repository:** [https://github.com/onchain-angels/nillion-sv-wrappers-py](https://github.com/onchain-angels/nillion-sv-wrappers-py) 🔗
