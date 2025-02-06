@@ -42,7 +42,7 @@ Each repository plays an essential role in ensuring that the Onchain Angels solu
 - **Deployment:** Heroku
 
 ### 3. **Frontend** 🌐
-- ** Repository:** [https://github.com/onchain-angels/onchain-angels-frontend](https://github.com/onchain-angels/onchain-angels-frontend) 🔗
+- **Repository:** [https://github.com/onchain-angels/onchain-angels-frontend](https://github.com/onchain-angels/onchain-angels-frontend) 🔗
 - **Description:**  
     This repository hosts the front-end of the application, developed with modern frameworks (such as Next.js) and technologies, delivering a rich and responsive user interface.
 - **Tech Stack:**
