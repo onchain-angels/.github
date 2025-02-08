@@ -26,7 +26,8 @@ Each repository plays a vital role in ensuring the Onchain Angels solution works
 - **Description:**  
     Houses the AI agent - a customized fork of [elizaOS/eliza-starter](https://github.com/elizaOS/eliza-starter), featuring custom character configurations, Farcaster and Twitter/X integration clients, and a plugin for retrieving users' latest transaction data from the backend.
 - **Tech Stack:**
-  - PENDING
+  - ElizaOS v0.1.9
+  - TypeScript
 - **Deployment:** Autonome
 
 ### 2. **Backend** 💻
