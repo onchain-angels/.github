@@ -22,9 +22,9 @@ Each repository plays a vital role in ensuring the Onchain Angels solution works
 
 ### 1. **Agent** 🤖
 
-- **Repository:** [https://github.com/onchain-angels/onchain-angels-agent](https://github.com/onchain-angels/onchain-angels-agent) 
+- **Repository:** [https://github.com/onchain-angels/onchain-angels-eliza](https://github.com/onchain-angels/onchain-angels-eliza) 
 - **Description:**  
-    Houses the AI agent - a customized fork of [elizaOS/eliza-starter](https://github.com/elizaOS/eliza-starter), featuring custom character configurations, Farcaster and Twitter/X integration clients, and a plugin for retrieving users' latest transaction data from the backend.
+    Houses the AI agent - a customized fork of [elizaOS/eliza](https://github.com/elizaOS/eliza), featuring custom character configurations, Farcaster and Twitter/X integration clients, and a plugin for retrieving users' latest transaction data from the backend.
 - **Tech Stack:**
   - ElizaOS v0.1.9
   - TypeScript
@@ -35,13 +35,13 @@ Each repository plays a vital role in ensuring the Onchain Angels solution works
 - **Repository:**
     [https://github.com/onchain-angels/onchain-angels-backend](https://github.com/onchain-angels/onchain-angels-backend) 
 - **Description:**  
-    This repository contains APIs for profile management and user activity webhooks. It handles all server-side logic, including wallet and token management, plus integrations with blockchain data providers (Alchemy, Etherscan, CoinGecko). Implements webhooks that summarize user actions and relay them to the agent.
+    This repository contains APIs for profile management and user activity webhooks. It manages all server-side logic, including wallet and token management, as well as integrations with blockchain data providers (Alchemy, Etherscan, CoinGecko) and OpenAI. This enables mapping users' coins into one of four predefined buckets. It also implements a webhook triggered after each user on-chain transaction, summarizing their actions and relaying the details to the agent.
 - **Tech Stack:**
   - Python
   - Django
   - Django REST Framework
   - PostgreSQL
-- **Deployment:** Heroku [https://api.onchain-angels.com/](https://api.onchain-angels.com/api/v1/schema/swagger-ui/)
+- **Deployment:** Heroku @ [https://api.onchain-angels.com/](https://api.onchain-angels.com/api/v1/schema/swagger-ui/)
 
 ### 3. **Frontend** 🌐
 
@@ -52,7 +52,7 @@ Each repository plays a vital role in ensuring the Onchain Angels solution works
   - Next.js
   - Tailwind CSS
   - TypeScript
-- **Deployment:** Vercel [https://onchain-angels.com/](https://onchain-angels.com/)
+- **Deployment:** Vercel @ [https://onchain-angels.com/](https://onchain-angels.com/)
 
 ### 4. **Nillion** 🔒
 
