@@ -55,7 +55,16 @@ Each repository plays a vital role in ensuring the Onchain Angels solution works
   - TypeScript
 - **Deployment:** Vercel @ [https://onchain-angels.com/](https://onchain-angels.com/)
 
-### 4. **Nillion** 🔒
+### 4. **nillion-sv-wrappers-py** 🐍
+
+- **Repository:** [https://github.com/onchain-angels/nillion-sv-wrappers-py](https://github.com/onchain-angels/nillion-sv-wrappers-py)
+- **Description:**  
+    A Python library that provides wrappers for seamless integration with the Nillion Secret Vault. Inspired by [NillionNetwork/nillion-sv-wrappers](https://github.com/NillionNetwork/nillion-sv-wrappers) JavaScript implementation, it offers an abstraction layer for secure, decentralized data storage and encryption operations.
+- **Tech Stack:**
+  - Python
+  - nilql
+
+### 5. **Nillion** 🔒
 
 - **Repository:** [https://github.com/onchain-angels/nillion](https://github.com/onchain-angels/nillion)
 - **Description:**  
@@ -66,12 +75,3 @@ Each repository plays a vital role in ensuring the Onchain Angels solution works
   - JavaScript
   - Node.js
   - nillion-sv-wrappers
-
-### 5. **nillion-sv-wrappers-py** 🐍
-
-- **Repository:** [https://github.com/onchain-angels/nillion-sv-wrappers-py](https://github.com/onchain-angels/nillion-sv-wrappers-py)
-- **Description:**  
-    A Python library that provides wrappers for seamless integration with the Nillion Secret Vault. Inspired by [NillionNetwork/nillion-sv-wrappers](https://github.com/NillionNetwork/nillion-sv-wrappers) JavaScript implementation, it offers an abstraction layer for secure, decentralized data storage and encryption operations.
-- **Tech Stack:**
-  - Python
-  - nilql
