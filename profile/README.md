@@ -16,13 +16,13 @@ Each repository plays a vital role in ensuring the Onchain Angels solution works
 
 - 🐍 **Nillion-sv-wrappers-py:** Python utility library to communicate with Nillion db.
 
-<img src="https://github.com/onchain-angels/.github/blob/master/profile/images/workflow.jpg" alt="workflow"/>
+<img src="https://github.com/onchain-angels/.github/blob/master/profile/images/workflow_v2.jpg" alt="workflow"/>
 
 ## Repositories 🚀
 
 ### 1. **Agent** 🤖
 
-- **Repository:** [https://github.com/onchain-angels/onchain-angels-agent](https://github.com/onchain-angels/onchain-angels-agent) 
+- **Repository:** [https://github.com/onchain-angels/onchain-angels-agent](https://github.com/onchain-angels/onchain-angels-agent)
 - **Description:**  
     Houses the AI agent - a customized fork of [elizaOS/eliza-starter](https://github.com/elizaOS/eliza-starter), featuring custom character configurations, Farcaster and Twitter/X integration clients, and a plugin for retrieving users' latest transaction data from the backend.
 - **Tech Stack:**
@@ -32,7 +32,7 @@ Each repository plays a vital role in ensuring the Onchain Angels solution works
 ### 2. **Backend** 💻
 
 - **Repository:**
-    [https://github.com/onchain-angels/onchain-angels-backend](https://github.com/onchain-angels/onchain-angels-backend) 
+    [https://github.com/onchain-angels/onchain-angels-backend](https://github.com/onchain-angels/onchain-angels-backend)
 - **Description:**  
     This repository contains APIs for profile management and user activity webhooks. It handles all server-side logic, including wallet and token management, plus integrations with blockchain data providers (Alchemy, Etherscan, CoinGecko). Implements webhooks that summarize user actions and relay them to the agent.
 - **Tech Stack:**
@@ -55,7 +55,7 @@ Each repository plays a vital role in ensuring the Onchain Angels solution works
 
 ### 4. **Nillion** 🔒
 
-- **Repository:** [https://github.com/onchain-angels/nillion](https://github.com/onchain-angels/nillion) 
+- **Repository:** [https://github.com/onchain-angels/nillion](https://github.com/onchain-angels/nillion)
 - **Description:**  
   - Forked from [NillionNetwork/nillion-sv-wrappers](https://github.com/NillionNetwork/nillion-sv-wrappers)
   - Used for testing and schema development for Backend-Agent information exchange
