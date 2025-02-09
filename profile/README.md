@@ -49,6 +49,7 @@ Each repository plays a vital role in ensuring the Onchain Angels solution works
 - **Description:**  
     Web application where users can create profiles to receive AI-powered financial insights. User information is securely stored in the backend and utilized to generate personalized agent responses.
 - **Tech Stack:**
+  - OnchainKit (CDP SDK)
   - Next.js
   - Tailwind CSS
   - TypeScript
